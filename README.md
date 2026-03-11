@@ -8,15 +8,6 @@
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=We%20are%20ByteForge&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
-
-
-
-
-
-  
-
-  
-# 👋 Hello, this is ByteForge
   
   <!-- 更改轮播内容和动画速度 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=Developers+%7C+Creators+%7C+Collaborators;Code+Better+Together;Ship+Learn+Improve;Excellence+in+Engineering)](https://git.io/typing-svg)
