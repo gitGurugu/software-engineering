@@ -4,6 +4,8 @@ The repository of software engineering
 ## About our team
 
 
+![Kong Jiale](./asset/Jerrry%20Kong.png)
+
 
 - Name: Kong Jiale
 - Student ID: 2023214443
