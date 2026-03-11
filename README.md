@@ -11,3 +11,5 @@ The repository of software engineering
 - Email: `2049447146@qq.com`
 - GitHub: gitGurugu
 - Bio: I am an enthusiast of Artificial Intelligence and Software Engineering. I enjoy playing basketball.
+
+![Kong Jiale](./asset/Jerrry%20Kong.png)
