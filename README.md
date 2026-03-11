@@ -29,7 +29,7 @@ The repository of software engineering
 
 ### 2. ~~个人照片~~
 
-![个人照片](images/Hinton.jpg)
+![个人照片](asset/Hinton.jpg)
 
 
 ### 3. 自我简介
