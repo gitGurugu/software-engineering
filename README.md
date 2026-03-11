@@ -39,6 +39,28 @@
 </div>
 
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  Featured Projects
+</h2>
+
+<div align="center">
+  <a href="https://github.com/zzzj131/mysql_mqtt_bridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zzzj131&repo=mysql_mqtt_bridge&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+  <a href="https://github.com/gitGurugu/prompt-optimizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitGurugu&repo=prompt-optimizer&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+</div>
+
+<!-- 添加项目按钮 -->
+<div align="center">
+  <a href="https://github.com/zzzj131?tab=repositories">
+    <img src="https://img.shields.io/badge/More Projects →-View All →-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
+  </a>
+</div>
+
+
 
 
 
