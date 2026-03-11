@@ -35,10 +35,6 @@ The repository of software engineering
 
 ---
 
-## 成员介绍模板（个人）
-
-
-
 ### 1. 基本信息
 
 - 姓名：张津
