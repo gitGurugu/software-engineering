@@ -33,14 +33,19 @@
 </h2>
 
 <div align="center">
-  <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
-  
-  <!-- 添加技能动画卡片 - 改进布局 -->
+<!-- 使用更美观的动态技能图标 -->
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
+
+</div>
+
+
 
 
 
 ---
+
+
+
 
 ### Personal Information
 
