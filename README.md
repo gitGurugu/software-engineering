@@ -25,6 +25,21 @@
 	</p>
 </div>
 
+
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  Skills and Tools
+</h2>
+
+<div align="center">
+  <!-- 使用更美观的动态技能图标 -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
+  
+  <!-- 添加技能动画卡片 - 改进布局 -->
+
+
+
 ---
 
 ### Personal Information
