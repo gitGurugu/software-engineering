@@ -24,7 +24,7 @@ The repository of software engineering
 - 姓名：张津
 - 学号：2023214555
 - 专业/班级：计科2305班
-- 邮箱：zhang131082@outlook.com
+- 邮箱：`zhang131082@outlook.com`
 - GitHub：https://github.com/zzzj131
 
 ### 2. ~~个人照片~~
