@@ -13,7 +13,7 @@ The repository of software engineering
 - 学号：2023214555
 - 专业/班级：计科2305班
 - 邮箱：zhang131082@outlook.com
-- GitHub：https://github.com/zzzj131
+- GitHub：[zzzj131](https://github.com/zzzj131)
 
 ### 2. ~~个人照片~~
 
@@ -28,7 +28,7 @@ The repository of software engineering
 
 ### 4. 项目经验
 
-#### 项目 1：“花语智农”——油茶林智慧授粉系统（核心成员）
+#### “花语智农”——油茶林智慧授粉系统（核心成员）
 - 时间：2025.03 ~ 至今
 - 项目简介：该系统通过边缘计算与传感器网络，实现对油茶林生长环境的智能监控和花朵状态的视觉识别，为精准授粉提供决策支持，旨在提升农业生产效率。
 - 个人职责：
